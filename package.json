@@ -1,0 +1,31 @@
+{
+    "name": "stringcheck",
+    "version": "0.1.0",
+    "description": "Stringcheck is a small module to check strings against common Regexpatterns (like email address, numbers, etc).",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha --reporter nyan"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/jgiere/stringcheck.git"
+    },
+    "keywords": [
+        "string",
+        "check",
+        "regex",
+        "pattern",
+        "patterns",
+        "expression",
+        "expressions"
+    ],
+    "author": "Johannes Giere <npm@jgiere.de>",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/jgiere/stringcheck/issues"
+    },
+    "devDependencies": {
+        "chai": "^3.5.0",
+        "mocha": "^3.1.2"
+    }
+}
