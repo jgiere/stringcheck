@@ -1,6 +1,6 @@
 {
     "name": "stringcheck",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Stringcheck is a small module to check strings against common Regexpatterns (like email address, numbers, etc).",
     "main": "index.js",
     "scripts": {
