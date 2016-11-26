@@ -1,4 +1,5 @@
 // Copyright (C) 2016  Johannes Giere
+// The Regex expressions have been published by Luke Hass (https://github.com/lukehaas/RegexHub) under the MIT license.
 /*jshint esversion: 6 */
 
 module.exports = {
