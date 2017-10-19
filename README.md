@@ -27,7 +27,7 @@ It provides the following methods:
 
 ## Usage
 
-  var stringcheck = require('stringcheck');
+  let stringcheck = require('stringcheck');
 
   let response = stringcheck.date('31.12.2016');
 
